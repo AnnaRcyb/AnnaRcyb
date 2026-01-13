@@ -14,7 +14,7 @@ Cybersecurity student at Collin College focused on building practical security s
 - [Building A Network (Hands-on)](https://annarcyb.github.io/In-Person-Network-Build-Lab/)
 <br />
 
-<img align="left" width="75" src="Tech Working GIF by Pudgy Penguins.gif"><br /><h2>Coding Projects:</h2>
+<img align="left" width="65" src="Tech Working GIF by Pudgy Penguins.gif"><br /><h2>Coding Projects:</h2>
 
   <b>All projects are personalized by me, including my own drawings.</b>
   
@@ -23,6 +23,6 @@ Cybersecurity student at Collin College focused on building practical security s
   - [Beginner To-Do List](https://annarcyb.github.io/Beginner-To-Do-List/) 
 <br />
 
-<h2> 🤳 Connect with me:</h2>
+<img align="left" width="100" src="Thumbs Up GIF.gif"><h2>Connect with me:</h2>
 
 
