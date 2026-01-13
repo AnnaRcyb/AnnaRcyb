@@ -9,12 +9,12 @@ Cybersecurity student at Collin College focused on building practical security s
 <br />
 <br />
 
-<img align="left" width="75" src="Tech Working GIF by Pudgy Penguins.gif"><br /><h2>Cybersecurity Projects:</h2>
+<h2>Cybersecurity Projects:</h2>
 
 - [Building A Network (Hands-on)](https://annarcyb.github.io/In-Person-Network-Build-Lab/)
 <br />
 
-<h2>📺 Coding Projects</h2>
+<img align="left" width="75" src="Tech Working GIF by Pudgy Penguins.gif"><br /><h2>Coding Projects:</h2>
 
   <b>All projects are personalized by me, including my own drawings.</b>
   
