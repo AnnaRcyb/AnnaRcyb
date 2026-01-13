@@ -7,7 +7,7 @@
 
 Cybersecurity student at Collin College focused on building practical security skills. This GitHub showcases cybersecurity projects, labs, and beginner coding projects that reflect my learning journey and technical growth.
 
-<h2>👨‍💻 Cybersecurity Projects:</h2> 
+<h2><img src="web.gif" width="25">Cybersecurity Projects:</h2> 
 
 - [Building A Network (Hands-on)](https://annarcyb.github.io/In-Person-Network-Build-Lab/)
 
