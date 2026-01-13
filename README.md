@@ -6,10 +6,13 @@
 
 
 Cybersecurity student at Collin College focused on building practical security skills. This GitHub showcases cybersecurity projects, labs, and beginner coding projects that reflect my learning journey and technical growth.
+<br />
+<br />
 
-<h2><img src="web.gif" width="25">Cybersecurity Projects:</h2> 
+<img align="left" width="75" src="view.gif"><h2>Cybersecurity Projects:</h2>
 
 - [Building A Network (Hands-on)](https://annarcyb.github.io/In-Person-Network-Build-Lab/)
+<br />
 
 <h2>📺 Coding Projects</h2>
 
@@ -18,6 +21,7 @@ Cybersecurity student at Collin College focused on building practical security s
 - <b>HTML | CSS | Javascript</b>
   - [Beginner Pac-Man Game](https://annarcyb.github.io/Beginner-Pac-Man-Game/)
   - [Beginner To-Do List](https://annarcyb.github.io/Beginner-To-Do-List/) 
+<br />
 
 <h2> 🤳 Connect with me:</h2>
 
